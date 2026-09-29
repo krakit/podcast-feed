@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grok Picks</title>
+    <link>https://example.invalid/grok-picks</link>
+    <description>Weekly highly recommended tech and business podcast episodes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2026 20:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
+    <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Grok Bot</itunes:author>
+    <itunes:summary>Weekly highly recommended tech and business podcast episodes.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Grok Bot</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Business"/>
+    </itunes:category>
+    <managingEditor>Grok Bot</managingEditor>
+    <webMaster>Grok Bot</webMaster>
+    <item>
+      <title>Invest Like the Best — Noah Shinn / Instinct</title>
+      <description>Noah Shinn on building Instinct, a personal AI agent you text or call like a human assistant — trust, agent-to-agent networks, and why he rejects ad-driven incentives.</description>
+      <link>https://colossus.com/episode/instinct-the-personal-agent/</link>
+      <guid isPermaLink="false">grok-picks:iltb:72db537c-bb24-11f1-805d-739c8a3d8d83</guid>
+      <pubDate>Mon, 28 Sep 2026 12:05:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/CLS4620503535.mp3" length="83124574" type="audio/mpeg"/>
+      <itunes:duration>1:26:13</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Noah Shinn on building Instinct, a personal AI agent you text or call like a human assistant — trust, agent-to-agent networks, and why he rejects ad-driven incentives.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>a16z Show — AI Can Write Code. Why Isn’t Software Better?</title>
+      <description>a16z explores why AI coding gains have not yet translated into obviously better software products and what still bottlenecks shipping quality.</description>
+      <link>https://a16z.simplecast.com/episodes/ai-can-write-code-why-isnt-software-better-je38wEkC</link>
+      <guid isPermaLink="false">grok-picks:a16z:d86f541d-9341-4833-b84a-29e85df6d174</guid>
+      <pubDate>Mon, 28 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a874c8b0-6ca6-4359-9d91-084c2ed8cd29/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=a874c8b0-6ca6-4359-9d91-084c2ed8cd29&amp;feed=JGE3yC0V" length="41515158" type="audio/mpeg"/>
+      <itunes:duration>43:14</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>a16z explores why AI coding gains have not yet translated into obviously better software products and what still bottlenecks shipping quality.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20VC — Alex Mashrabov / Higgsfield</title>
+      <description>Higgsfield CEO Alex Mashrabov on hitting ~$1BN ARR in 18 months, burning millions on models, why AI moats are overrated, and scaling a 150-person content team.</description>
+      <link>https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov</link>
+      <guid isPermaLink="false">grok-picks:20vc:83f96834-8b3f-469a-9ff3-998b6ef130f1</guid>
+      <pubDate>Mon, 28 Sep 2026 07:07:00 +0000</pubDate>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Alex_Mashrabov__Higgsfield.mp3?dest-id=240976" length="66780366" type="audio/mpeg"/>
+      <itunes:duration>1:09:34</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Higgsfield CEO Alex Mashrabov on hitting ~$1BN ARR in 18 months, burning millions on models, why AI moats are overrated, and scaling a 150-person content team.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20VC — Parag Agrawal / Parallel</title>
+      <description>Former Twitter CEO Parag Agrawal on agent-native web search, why ads may die in an agent world, and lessons from working with Elon Musk.</description>
+      <link>https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel</link>
+      <guid isPermaLink="false">grok-picks:20vc:ad1ab1b3-e855-4910-8937-65bed31a3de6</guid>
+      <pubDate>Sat, 26 Sep 2026 12:27:00 +0000</pubDate>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/20Product__Parag_Agrawal__Parallel_Web_Systems.mp3?dest-id=240976" length="54558842" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Former Twitter CEO Parag Agrawal on agent-native web search, why ads may die in an agent world, and lessons from working with Elon Musk.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>No Priors — Re-Founding Incumbents for the AI Era</title>
+      <description>Sequence Holdings CEO Michael Lee on taking incumbents private, engineering-led AI transformations, and why holding-company structures beat consulting for lasting change.</description>
+      <link>https://www.no-priors.com/</link>
+      <guid isPermaLink="false">grok-picks:nopriors:e2eb4b88-b7c1-11f1-a5c5-4b2557d321bc</guid>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/PDP3274846886.mp3" length="102634576" type="audio/mpeg"/>
+      <itunes:duration>42:44</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Sequence Holdings CEO Michael Lee on taking incumbents private, engineering-led AI transformations, and why holding-company structures beat consulting for lasting change.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>All-In — Luca Ferrari / Bending Spoons</title>
+      <description>Bending Spoons CEO Luca Ferrari on the $40K restart, buying product-market fit through acquisitions, and building a tech giant out of Milan.</description>
+      <link>https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete</link>
+      <guid isPermaLink="false">grok-picks:allin:cbcb6353-9937-4c25-9f83-93e1f096d3e6</guid>
+      <pubDate>Wed, 23 Sep 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300" length="36752704" type="audio/mpeg"/>
+      <itunes:duration>25:30</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Bending Spoons CEO Luca Ferrari on the $40K restart, buying product-market fit through acquisitions, and building a tech giant out of Milan.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
