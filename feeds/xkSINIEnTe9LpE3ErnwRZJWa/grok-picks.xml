@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Grok Picks</title>
     <link>https://example.invalid/grok-picks</link>
     <description>Weekly highly recommended tech and business podcast episodes.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:38:50 +0000</lastBuildDate>
     <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
     <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Grok Bot</itunes:author>
@@ -21,6 +19,90 @@
     </itunes:category>
     <managingEditor>Grok Bot</managingEditor>
     <webMaster>Grok Bot</webMaster>
+    <item>
+      <title>Cognitive Revolution — Keerthana / Gemini Robotics 2</title>
+      <description>DeepMind’s Gemini Robotics lead on a single brain across bodies — the cross-embodiment bet behind generalist humanoids.</description>
+      <link>https://www.cognitiverevolution.ai/one-brain-any-body-google-deepmind-s-keerthana-on-gemini-robotics-2-cross-embodiment-humanoids/</link>
+      <guid isPermaLink="false">grok-picks:cogrev:0852a10c-bd6a-11f1-b201-2389e652e164</guid>
+      <pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP1004613940.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>1:32:08</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>DeepMind’s Gemini Robotics lead on a single brain across bodies — the cross-embodiment bet behind generalist humanoids.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>a16z Show — Beyond the God Model | Alex Atallah &amp; Amjad Masad</title>
+      <description>OpenRouter’s Alex Atallah and Replit’s Amjad Masad on why AI looks more like specialized model ecosystems than one god model.</description>
+      <link>https://a16z.simplecast.com/episodes/beyond-the-god-model-alex-atallah-amjad-masad-OPhKxfHE</link>
+      <guid isPermaLink="false">grok-picks:a16z:29e0b258-c055-4a45-87d7-271d5e50ea29</guid>
+      <pubDate>Sat, 03 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cc5d9775-0204-484c-97b5-e29f4efc2c9e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=cc5d9775-0204-484c-97b5-e29f4efc2c9e&amp;feed=JGE3yC0V" length="46371013" type="audio/mpeg"/>
+      <itunes:duration>00:48:18</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>OpenRouter’s Alex Atallah and Replit’s Amjad Masad on why AI looks more like specialized model ecosystems than one god model.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20VC — Chase Lochmiller / Crusoe (Datacentres)</title>
+      <description>Crusoe CEO Chase Lochmiller on GPU depreciation myths, AI energy costs, and who actually makes money in the datacenter stack.</description>
+      <link>https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller</link>
+      <guid isPermaLink="false">grok-picks:20vc:f3eb72dc-2cb6-4b98-a37a-4b8f41f57d10</guid>
+      <pubDate>Sat, 03 Oct 2026 07:07:00 +0000</pubDate>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/20Growth__Chase_Lochmiller__Crusoe.mp3?dest-id=240976" length="58800279" type="audio/mpeg"/>
+      <itunes:duration>01:01:15</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Crusoe CEO Chase Lochmiller on GPU depreciation myths, AI energy costs, and who actually makes money in the datacenter stack.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>No Priors — Walter Goodwin / Fractile</title>
+      <description>Fractile’s Walter Goodwin on full-stack AI chips and how a newer architecture bets against the Broadcom/NVIDIA/AMD path.</description>
+      <link>https://overcast.fm/itunes1000792736882</link>
+      <guid isPermaLink="false">grok-picks:nopriors:44fa0b1c-be0b-11f1-b00d-cb6a27141e9e</guid>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/PDP7579412568.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:38</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Fractile’s Walter Goodwin on full-stack AI chips and how a newer architecture bets against the Broadcom/NVIDIA/AMD path.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>This Week in Startups — Justin Kan &amp; Brian Chesky</title>
+      <description>Twitch and Airbnb origin stories through the rejections that forced clearer products and tougher founder conviction.</description>
+      <link>https://overcast.fm/itunes1000792464639</link>
+      <guid isPermaLink="false">grok-picks:twis:7cf6d85e-bd18-11f1-9f30-07886e058b3c</guid>
+      <pubDate>Thu, 01 Oct 2026 15:36:00 +0000</pubDate>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT4286203292.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>1:18:04</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Twitch and Airbnb origin stories through the rejections that forced clearer products and tougher founder conviction.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>a16z Show — The $1 Trillion AI Buildout | State of Markets</title>
+      <description>a16z State of Markets unpacks the charts behind a ~$1T AI infrastructure buildout and what adoption looks like inside companies.</description>
+      <link>https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1</link>
+      <guid isPermaLink="false">grok-picks:a16z:1ca256e1-d9aa-4b53-8086-97b5540ccd33</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7104380b-ad2f-4075-b459-cb07cd66a70b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=7104380b-ad2f-4075-b459-cb07cd66a70b&amp;feed=JGE3yC0V" length="51499790" type="audio/mpeg"/>
+      <itunes:duration>00:53:38</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>a16z State of Markets unpacks the charts behind a ~$1T AI infrastructure buildout and what adoption looks like inside companies.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>All-In — Daniel Ek / Spotify &amp; Neko Health</title>
+      <description>Spotify’s Daniel Ek on the piracy-to-platform playbook and applying it to Neko Health’s early-disease detection bet.</description>
+      <link>https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential</link>
+      <guid isPermaLink="false">grok-picks:allin:7b660c9d-26d0-4ff4-9205-6808ee6898d5</guid>
+      <pubDate>Mon, 28 Sep 2026 22:16:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300" length="77097402" type="audio/mpeg"/>
+      <itunes:duration>51:16</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Spotify’s Daniel Ek on the piracy-to-platform playbook and applying it to Neko Health’s early-disease detection bet.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Invest Like the Best — Noah Shinn / Instinct</title>
       <description>Noah Shinn on building Instinct, a personal AI agent you text or call like a human assistant — trust, agent-to-agent networks, and why he rejects ad-driven incentives.</description>
