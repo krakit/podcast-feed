@@ -5,7 +5,7 @@
     <link>https://example.invalid/grok-picks</link>
     <description>Weekly highly recommended tech and business podcast episodes.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:38:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:35:43 +0000</lastBuildDate>
     <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
     <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Grok Bot</itunes:author>
@@ -19,6 +19,78 @@
     </itunes:category>
     <managingEditor>Grok Bot</managingEditor>
     <webMaster>Grok Bot</webMaster>
+    <item>
+      <title>No Priors — Misha Laskin / ReflectionAI Beam</title>
+      <description>ReflectionAI's Misha Laskin on launching Beam, a 500B-parameter open-weight reasoning model, and whether frontier AI goes open or closed.</description>
+      <link>https://overcast.fm/itunes1000794029585</link>
+      <guid isPermaLink="false">grok-picks:nopriors:994123ec-c395-11f1-b01e-fff03490a570</guid>
+      <pubDate>Fri, 09 Oct 2026 17:24:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/PDP1028435739.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4184</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>ReflectionAI's Misha Laskin on launching Beam, a 500B-parameter open-weight reasoning model, and whether frontier AI goes open or closed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>a16z Show — Pat Gelsinger / Chips, Memory, and Power</title>
+      <description>Former Intel CEO Pat Gelsinger on the semiconductor, memory, and power constraints that will shape the AI buildout.</description>
+      <link>https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU</link>
+      <guid isPermaLink="false">grok-picks:a16z:6be2f208-f197-42c1-bd01-4b859bfc26cb</guid>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2a98eb9e-80e8-4172-958c-8f92f8976e78/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=2a98eb9e-80e8-4172-958c-8f92f8976e78&amp;feed=JGE3yC0V" length="52092456" type="audio/mpeg"/>
+      <itunes:duration>00:54:15</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Former Intel CEO Pat Gelsinger on the semiconductor, memory, and power constraints that will shape the AI buildout.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Odd Lots — How AI Is Upending Mathematics</title>
+      <description>After an AI-generated Navier-Stokes proof, how LLMs went from bad at counting to cracking decades-old problems, and what it means for research.</description>
+      <link>https://omny.fm/shows/odd-lots/how-ai-is-upending-the-world-of-mathematics</link>
+      <guid isPermaLink="false">grok-picks:oddlots:f49c2ca3-dfe7-4a67-bc11-b4dd01463f66</guid>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f49c2ca3-dfe7-4a67-bc11-b4dd01463f66/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83" length="57996400" type="audio/mpeg"/>
+      <itunes:duration>3621</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>After an AI-generated Navier-Stokes proof, how LLMs went from bad at counting to cracking decades-old problems, and what it means for research.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>a16z Show — AWS CEO Matt Garman / Cloud for Agents</title>
+      <description>AWS CEO Matt Garman on rebuilding the cloud for agents, AI-native startups, and how AWS rations scarce GPU capacity.</description>
+      <link>https://a16z.simplecast.com/episodes/building-the-cloud-for-an-agentic-world-aws-ceo-matt-garman-d18BWOHC</link>
+      <guid isPermaLink="false">grok-picks:a16z:362a88d2-2968-43d5-b3e4-7531e65faea0</guid>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1b4fcb1-9600-4c7b-a712-186a9c63f2fd/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=e1b4fcb1-9600-4c7b-a712-186a9c63f2fd&amp;feed=JGE3yC0V" length="54045580" type="audio/mpeg"/>
+      <itunes:duration>00:56:17</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>AWS CEO Matt Garman on rebuilding the cloud for agents, AI-native startups, and how AWS rations scarce GPU capacity.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>David Senra — Ari Emanuel / WME &amp; TKO</title>
+      <description>Ari Emanuel on his $4.2B UFC bet, lessons from Geffen and Egon Durban, and building an entertainment empire one phone call at a time.</description>
+      <link>https://www.davidsenra.com/episode/ari-emanuel</link>
+      <guid isPermaLink="false">grok-picks:senra:b2fb32e6-c20f-11f1-88e3-a75966f52347</guid>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/SCIM6093327194.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>5054</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Ari Emanuel on his $4.2B UFC bet, lessons from Geffen and Egon Durban, and building an entertainment empire one phone call at a time.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lenny's Podcast — Tibo Sottiaux / Head of ChatGPT</title>
+      <description>OpenAI's head of ChatGPT and Codex, recorded at DevDay, on the new agent launches and what the next era of AI products looks like.</description>
+      <link>https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering</link>
+      <guid isPermaLink="false">grok-picks:lenny:substack:post:217274136</guid>
+      <pubDate>Sun, 04 Oct 2026 12:32:47 +0000</pubDate>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/217274136/13e3f49711c936b294b6ef27d4160818.mp3" length="35885835" type="audio/mpeg"/>
+      <itunes:duration>2243</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>OpenAI's head of ChatGPT and Codex, recorded at DevDay, on the new agent launches and what the next era of AI products looks like.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Cognitive Revolution — Keerthana / Gemini Robotics 2</title>
       <description>DeepMind’s Gemini Robotics lead on a single brain across bodies — the cross-embodiment bet behind generalist humanoids.</description>
