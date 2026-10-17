@@ -5,7 +5,7 @@
     <link>https://example.invalid/grok-picks</link>
     <description>Weekly highly recommended tech and business podcast episodes.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:38:04 +0000</lastBuildDate>
     <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
     <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Grok Bot</itunes:author>
@@ -77,6 +77,18 @@
       <itunes:duration>4300</itunes:duration>
       <itunes:author>Grok Bot</itunes:author>
       <itunes:summary>Nubank founder David Vélez on serving 140M customers, why banking is still in its Blockbuster era, and how AI makes digital banks far more efficient than incumbents.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cheeky Pint — Mark Zuckerberg &amp; Alexandr Wang / Meta</title>
+      <description>Mark Zuckerberg and Alexandr Wang join John Collison to talk about the Muse Wonder launch, building Meta Superintelligence Labs, the $100B+ capex bet, agentic commerce, smart glasses, and why AI won't be winner-take-all.</description>
+      <link>https://overcast.fm/itunes1000796002189</link>
+      <guid isPermaLink="false">grok-picks:cheekypint:152b86d3-f7ab-483a-b356-c518c832b94b</guid>
+      <pubDate>Mon, 12 Oct 2026 19:16:55 +0000</pubDate>
+      <enclosure url="https://media.transistor.fm/bb7b9a51/b45e8e6f.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>8061</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Mark Zuckerberg and Alexandr Wang join John Collison to talk about the Muse Wonder launch, building Meta Superintelligence Labs, the $100B+ capex bet, agentic commerce, smart glasses, and why AI won't be winner-take-all.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
