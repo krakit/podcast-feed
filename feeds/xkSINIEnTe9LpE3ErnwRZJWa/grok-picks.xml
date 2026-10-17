@@ -5,7 +5,7 @@
     <link>https://example.invalid/grok-picks</link>
     <description>Weekly highly recommended tech and business podcast episodes.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:34:20 +0000</lastBuildDate>
     <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
     <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Grok Bot</itunes:author>
@@ -19,6 +19,90 @@
     </itunes:category>
     <managingEditor>Grok Bot</managingEditor>
     <webMaster>Grok Bot</webMaster>
+    <item>
+      <title>All-In — CoreWeave Crash &amp; Anthropic IPO</title>
+      <description>Ben Horowitz sits in: CoreWeave's debt selloff and whether the AI trade is cracking, AI's deflationary hit to software, and mixed reactions to Anthropic's investor day.</description>
+      <link>https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer</link>
+      <guid isPermaLink="false">grok-picks:allin:f5b1cd7e-b9a3-4c1d-9159-375cab50f6a8</guid>
+      <pubDate>Sat, 17 Oct 2026 01:51:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300" length="135502263" type="audio/mpeg"/>
+      <itunes:duration>01:34:06</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Ben Horowitz sits in: CoreWeave's debt selloff and whether the AI trade is cracking, AI's deflationary hit to software, and mixed reactions to Anthropic's investor day.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>BG2Pod — Jensen Huang / AI Revenue vs Capex</title>
+      <description>Jensen Huang with Brad Gerstner and Clark Tang on whether AI revenue justifies the capex, the 2027 bottlenecks, open vs closed models, and why he's still wildly optimistic.</description>
+      <link>https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4</link>
+      <guid isPermaLink="false">grok-picks:bg2:aa17f43f-020f-4233-979a-3029cce88f48</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://anchor.fm/s/f06c2370/podcast/play/127499364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434203331-44100-2-dec3db8a7fb56.mp3" length="95881089" type="audio/mpeg"/>
+      <itunes:duration>01:39:52</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Jensen Huang with Brad Gerstner and Clark Tang on whether AI revenue justifies the capex, the 2027 bottlenecks, open vs closed models, and why he's still wildly optimistic.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>No Priors — Greg Brockman / OpenAI</title>
+      <description>OpenAI President Greg Brockman on how frontier models are changing the physics of cybersecurity and drug development, and OpenAI's pace across models.</description>
+      <link>https://overcast.fm/itunes1000796472163</link>
+      <guid isPermaLink="false">grok-picks:nopriors:6fed676e-c84d-11f1-a40c-678dc1ca0b76</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/PDP1628614600.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>2362</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>OpenAI President Greg Brockman on how frontier models are changing the physics of cybersecurity and drug development, and OpenAI's pace across models.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Founders — #437 The Tycoons</title>
+      <description>David Senra on Charles Morris's The Tycoons: how Carnegie, Rockefeller, Gould, and Morgan invented the American supereconomy.</description>
+      <link>https://overcast.fm/itunes1000796222878</link>
+      <guid isPermaLink="false">grok-picks:founders:333ce5c4-c75d-11f1-a31e-7bbfecdd098c</guid>
+      <pubDate>Tue, 13 Oct 2026 23:30:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/DSLLC2102531802.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3251</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>David Senra on Charles Morris's The Tycoons: how Carnegie, Rockefeller, Gould, and Morgan invented the American supereconomy.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Invest Like the Best — David Vélez / Nubank</title>
+      <description>Nubank founder David Vélez on serving 140M customers, why banking is still in its Blockbuster era, and how AI makes digital banks far more efficient than incumbents.</description>
+      <link>https://colossus.com/episode/david-v-goliath/</link>
+      <guid isPermaLink="false">grok-picks:iltb:4bab0140-c690-11f1-ba93-9ff1cc3f5ef5</guid>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/CLS2134103794.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4300</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Nubank founder David Vélez on serving 140M customers, why banking is still in its Blockbuster era, and how AI makes digital banks far more efficient than incumbents.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lenny's Podcast — Josh Woodward / Google Labs</title>
+      <description>Google Labs and Gemini head Josh Woodward on why every company now needs to operate like a lab team, and how Labs finds and scales new AI products.</description>
+      <link>https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think</link>
+      <guid isPermaLink="false">grok-picks:lenny:substack:post:216810191</guid>
+      <pubDate>Sun, 11 Oct 2026 12:31:59 +0000</pubDate>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/216810191/b5148fc43510e2906d5e532bff5b6116.mp3" length="59700731" type="audio/mpeg"/>
+      <itunes:duration>3731</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Google Labs and Gemini head Josh Woodward on why every company now needs to operate like a lab team, and how Labs finds and scales new AI products.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>David Senra — Alexandr Wang / Creating Muse</title>
+      <description>Meta's chief AI officer Alexandr Wang on the seven-month sprint to build Muse, why Meta bet on personal agents over coding, and rebuilding Meta's AI lab.</description>
+      <link>https://www.davidsenra.com/episode/alexandr-wang</link>
+      <guid isPermaLink="false">grok-picks:senra:3bd67d32-c52b-11f1-8dc9-b74edd6b172f</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/SCIM4164325256.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4336</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Meta's chief AI officer Alexandr Wang on the seven-month sprint to build Muse, why Meta bet on personal agents over coding, and rebuilding Meta's AI lab.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>No Priors — Misha Laskin / ReflectionAI Beam</title>
       <description>ReflectionAI's Misha Laskin on launching Beam, a 500B-parameter open-weight reasoning model, and whether frontier AI goes open or closed.</description>
