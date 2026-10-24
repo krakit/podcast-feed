@@ -5,7 +5,7 @@
     <link>https://example.invalid/grok-picks</link>
     <description>Weekly highly recommended tech and business podcast episodes.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:35:52 +0000</lastBuildDate>
     <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
     <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Grok Bot</itunes:author>
@@ -19,6 +19,90 @@
     </itunes:category>
     <managingEditor>Grok Bot</managingEditor>
     <webMaster>Grok Bot</webMaster>
+    <item>
+      <title>a16z Show — Andy Jassy / Amazon's $220B AI Buildout</title>
+      <description>Amazon CEO Andy Jassy with Ben Horowitz on why Amazon is still leaving AI demand on the table despite ~$220B of 2026 capex, and how the buildout could make AWS a $1T run-rate business.</description>
+      <link>https://overcast.fm/itunes1000797758421</link>
+      <guid isPermaLink="false">grok-picks:a16z:97aecd60-4163-493a-8a2e-0ab519561ae4</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1185d26-c41a-40d4-9210-eca5adab915a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=e1185d26-c41a-40d4-9210-eca5adab915a&amp;feed=JGE3yC0V" length="58896832" type="audio/mpeg"/>
+      <itunes:duration>01:01:21</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Amazon CEO Andy Jassy with Ben Horowitz on why Amazon is still leaving AI demand on the table despite ~$220B of 2026 capex, and how the buildout could make AWS a $1T run-rate business.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dwarkesh — Chips in 2045 / Inside Intel's Fab</title>
+      <description>Dwarkesh tours Intel's most advanced fab with its technical leadership, with animated explainers on gate-all-around, backside power, CFET, and hybrid bonding.</description>
+      <link>https://overcast.fm/itunes1000797633702</link>
+      <guid isPermaLink="false">grok-picks:dwarkesh:substack:post:221632772</guid>
+      <pubDate>Thu, 22 Oct 2026 15:02:21 +0000</pubDate>
+      <enclosure url="https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3" length="66240826" type="audio/mpeg"/>
+      <itunes:duration>4140</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Dwarkesh tours Intel's most advanced fab with its technical leadership, with animated explainers on gate-all-around, backside power, CFET, and hybrid bonding.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Masters of Scale — Reid Hoffman &amp; OpenAI CFO Sarah Friar</title>
+      <description>Recorded live at the Masters of Scale Summit: OpenAI's CFO on where AI goes from here and the decisions that will shape the next phase.</description>
+      <link>https://overcast.fm/itunes1000797587451</link>
+      <guid isPermaLink="false">grok-picks:mos:gid://art19-episode-locator/V0/Msxp3Ag4XSRnFxFp-ETbFNNvfx2WnKin02bSQnTD8gM</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/440e719f-e6ab-46bd-b6b6-d620991aa065.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94" length="27827722" type="audio/mpeg"/>
+      <itunes:duration>00:28:59</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Recorded live at the Masters of Scale Summit: OpenAI's CFO on where AI goes from here and the decisions that will shape the next phase.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Business Breakdowns — Affirm</title>
+      <description>How Max Levchin's Affirm makes money, processing $50B+ in annual volume and growing 30%+ after a 90% post-IPO stock drop.</description>
+      <link>https://overcast.fm/itunes1000797584184</link>
+      <guid isPermaLink="false">grok-picks:breakdowns:e72c1768-cdba-11f1-8240-b3cccf45dcda</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS7299533905.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4315</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>How Max Levchin's Affirm makes money, processing $50B+ in annual volume and growing 30%+ after a 90% post-IPO stock drop.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>All-In — Arvind Krishna &amp; Nikesh Arora</title>
+      <description>IBM's and Palo Alto Networks' CEOs on quantum's threat to encryption, open-weight vs frontier models, AI cyber warfare, and SaaS consolidation.</description>
+      <link>https://overcast.fm/itunes1000797524230</link>
+      <guid isPermaLink="false">grok-picks:allin:21690ac7-0a5e-4f6b-84e3-91f41bbb7680</guid>
+      <pubDate>Wed, 21 Oct 2026 23:42:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_NikeshArvink.mp3?dest-id=1928300" length="58024310" type="audio/mpeg"/>
+      <itunes:duration>40:00</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>IBM's and Palo Alto Networks' CEOs on quantum's threat to encryption, open-weight vs frontier models, AI cyber warfare, and SaaS consolidation.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Invest Like the Best — Christina Cacioppo / Vanta</title>
+      <description>Vanta's founder on reinventing a category-leading software company in the age of AI and betting on agents that do the work rather than assist.</description>
+      <link>https://overcast.fm/itunes1000797223677</link>
+      <guid isPermaLink="false">grok-picks:iltb:5d4b6646-cc2c-11f1-b83e-6fbc19058151</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/CLS1049065818.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3449</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Vanta's founder on reinventing a category-leading software company in the age of AI and betting on agents that do the work rather than assist.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lenny's Podcast — Emmanuel Ameisen / How AI Models Think</title>
+      <description>Anthropic interpretability researcher on what looking inside Claude reveals about how LLMs actually reason.</description>
+      <link>https://overcast.fm/itunes1000796921555</link>
+      <guid isPermaLink="false">grok-picks:lenny:substack:post:219139599</guid>
+      <pubDate>Sun, 18 Oct 2026 12:31:36 +0000</pubDate>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/219139599/90039a78d32af2fbdc8b895d58abe6b4.mp3" length="69316718" type="audio/mpeg"/>
+      <itunes:duration>4332</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Anthropic interpretability researcher on what looking inside Claude reveals about how LLMs actually reason.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>All-In — CoreWeave Crash &amp; Anthropic IPO</title>
       <description>Ben Horowitz sits in: CoreWeave's debt selloff and whether the AI trade is cracking, AI's deflationary hit to software, and mixed reactions to Anthropic's investor day.</description>
@@ -77,18 +161,6 @@
       <itunes:duration>4300</itunes:duration>
       <itunes:author>Grok Bot</itunes:author>
       <itunes:summary>Nubank founder David Vélez on serving 140M customers, why banking is still in its Blockbuster era, and how AI makes digital banks far more efficient than incumbents.</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Cheeky Pint — Mark Zuckerberg &amp; Alexandr Wang / Meta</title>
-      <description>Mark Zuckerberg and Alexandr Wang join John Collison to talk about the Muse Wonder launch, building Meta Superintelligence Labs, the $100B+ capex bet, agentic commerce, smart glasses, and why AI won't be winner-take-all.</description>
-      <link>https://overcast.fm/itunes1000796002189</link>
-      <guid isPermaLink="false">grok-picks:cheekypint:152b86d3-f7ab-483a-b356-c518c832b94b</guid>
-      <pubDate>Mon, 12 Oct 2026 19:16:55 +0000</pubDate>
-      <enclosure url="https://media.transistor.fm/bb7b9a51/b45e8e6f.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>8061</itunes:duration>
-      <itunes:author>Grok Bot</itunes:author>
-      <itunes:summary>Mark Zuckerberg and Alexandr Wang join John Collison to talk about the Muse Wonder launch, building Meta Superintelligence Labs, the $100B+ capex bet, agentic commerce, smart glasses, and why AI won't be winner-take-all.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
