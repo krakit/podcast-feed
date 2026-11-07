@@ -5,7 +5,7 @@
     <link>https://example.invalid/grok-picks</link>
     <description>Weekly highly recommended tech and business podcast episodes.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:33:40 +0000</lastBuildDate>
     <pubDate>Mon, 28 Sep 2026 20:00:00 +0000</pubDate>
     <atom:link href="https://example.invalid/grok-picks.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Grok Bot</itunes:author>
@@ -19,6 +19,90 @@
     </itunes:category>
     <managingEditor>Grok Bot</managingEditor>
     <webMaster>Grok Bot</webMaster>
+    <item>
+      <title>No Priors — Robinhood's Vlad Tenev on Tokenization &amp; Agentic Trading</title>
+      <description>Robinhood's CEO on tokenized assets, AI agents that trade for you, Harmonic's math AI, and expanding ownership.</description>
+      <link>https://overcast.fm/itunes1000800029787</link>
+      <guid isPermaLink="false">grok-picks:nopriors:03f99d40-d8c2-11f1-9c96-7b13ace0b070</guid>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/PDP1158596730.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3248</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Robinhood's CEO on tokenized assets, AI agents that trade for you, Harmonic's math AI, and expanding ownership.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Masters of Scale — Demis Hassabis: Society Is 'Not Ready' for AI</title>
+      <description>Google DeepMind's CEO on where AGI is heading and why institutions aren't prepared for what's coming.</description>
+      <link>https://overcast.fm/itunes1000800019587</link>
+      <guid isPermaLink="false">grok-picks:mastersofscale:gid://art19-episode-locator/V0/1ZmgThkm4KAznp1sVo_wRyM8ZZkGllXbOaZGvionlEw</guid>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/142bdf36-d6ed-4e90-892c-96609f27f1f8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94" length="25401469" type="audio/mpeg"/>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Google DeepMind's CEO on where AGI is heading and why institutions aren't prepared for what's coming.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How I Invest — Jack Selby (Thiel Capital) on the AI Bubble &amp; PayPal Mafia</title>
+      <description>Peter Thiel's 27-year partner on AI bubble risk, venture's concentration problem, and lessons from the PayPal Mafia.</description>
+      <link>https://overcast.fm/itunes1000799812495</link>
+      <guid isPermaLink="false">grok-picks:howiinvest:BmVOYcr4r1Z</guid>
+      <pubDate>Wed, 04 Nov 2026 13:45:00 GMT</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/media.podcastai.com/episodes/BmVOYcr4r1Z.mp3?u=1793800801" length="54411503" type="audio/mpeg"/>
+      <itunes:duration>00:56:17</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Peter Thiel's 27-year partner on AI bubble risk, venture's concentration problem, and lessons from the PayPal Mafia.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Invest Like the Best — Martin Casado on Frontier Model Economics &amp; the Cursor Deal</title>
+      <description>a16z's Martin Casado on what frontier models really cost to build and serve, whether AI is slowing down, and the thinking behind the Cursor deal.</description>
+      <link>https://overcast.fm/itunes1000799776285</link>
+      <guid isPermaLink="false">grok-picks:iltb:49530156-d7dc-11f1-b21c-fbd5cb900e1d</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.megaphone.fm/CLS7412616378.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3913</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>a16z's Martin Casado on what frontier models really cost to build and serve, whether AI is slowing down, and the thinking behind the Cursor deal.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Builders — Garry Tan Decides Who Gets to Build the Future</title>
+      <description>Walter Isaacson with YC's Garry Tan on vetting founders in ten minutes, fear of five AI 'kings,' and personal AI taking back your feed.</description>
+      <link>https://overcast.fm/itunes1000799566903</link>
+      <guid isPermaLink="false">grok-picks:builders:25a74082-b213-42d2-a2a8-b4f10127c674</guid>
+      <pubDate>Tue, 03 Nov 2026 08:01:00 +0000</pubDate>
+      <enclosure url="https://tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/25a74082-b213-42d2-a2a8-b4f10127c674/audio.mp3?utm_source=Podcast&amp;in_playlist=51d9281c-e886-4139-b940-b4c0011494bc" length="38218561" type="audio/mpeg"/>
+      <itunes:duration>2386</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Walter Isaacson with YC's Garry Tan on vetting founders in ten minutes, fear of five AI 'kings,' and personal AI taking back your feed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20VC — Modal's Erik Bernhardsson: Who Wins the Inference Market</title>
+      <description>Modal's CEO on inference economics, whether open-source LLM inference has peaked, compute costs, and the limits of RL post-training.</description>
+      <link>https://overcast.fm/itunes1000799360074</link>
+      <guid isPermaLink="false">grok-picks:20vc:1f169d7f-e809-4a28-ac40-14ea0c835f77</guid>
+      <pubDate>Mon, 02 Nov 2026 07:07:00 +0000</pubDate>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Erik_Bernhardsson__Modal.mp3?dest-id=240976" length="59670460" type="audio/mpeg"/>
+      <itunes:duration>01:02:10</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Modal's CEO on inference economics, whether open-source LLM inference has peaked, compute costs, and the limits of RL post-training.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>a16z Show — How Bending Spoons Built a $20B Compounder</title>
+      <description>Luca Ferrari on the buy-and-rebuild playbook behind Evernote, Vimeo, and WeTransfer and why it compounds.</description>
+      <link>https://overcast.fm/itunes1000799212274</link>
+      <guid isPermaLink="false">grok-picks:a16z:07d45a62-6c5d-4484-ac20-4547effdeb15</guid>
+      <pubDate>Sun, 1 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/be537ca6-f09e-4793-97fd-a93564022378/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=be537ca6-f09e-4793-97fd-a93564022378&amp;feed=JGE3yC0V" length="42568421" type="audio/mpeg"/>
+      <itunes:duration>00:44:20</itunes:duration>
+      <itunes:author>Grok Bot</itunes:author>
+      <itunes:summary>Luca Ferrari on the buy-and-rebuild playbook behind Evernote, Vimeo, and WeTransfer and why it compounds.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>All-In — Anthropic S-1 Breakdown, Google's $500B Wipeout</title>
       <description>The besties tear down Anthropic's S-1 (is it the greatest business ever?), AI's doomer debate, Google's worst-ever market-cap day, and midterm predictions.</description>
